@@ -35,6 +35,7 @@ dist/
 build/
 out/
 .cache/
+.playwright-mcp/
 .temp/
 *.tmp
 scratch/
